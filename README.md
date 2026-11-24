@@ -8,4 +8,4 @@ The plugin connects to Zeck’s production MCP server. Zeck checks your permissi
 
 ## License
 
-The [MIT License](LICENSE) covers the plugin configuration, skill, and documentation. Zeck, Inc. reserves all rights to the Zeck name and logo, including the artwork in `.claude-plugin/icon.png`. The logo is excluded from the MIT license grant.
+The [MIT License](LICENSE) covers the plugin configuration, skill, and documentation. Zeck, Inc. reserves all rights to the Zeck name and logo, including the bundled plugin icon. The logo is excluded from the MIT license grant.
