@@ -16,5 +16,12 @@
   "displayName": "Zeck",
   "privacyPolicyUrl": "https://help.zeck.app/privacy-policy-1",
   "license": "MIT",
-  "repository": "https://github.com/Zeck-App/claude-plugin"
+  "repository": "https://github.com/Zeck-App/claude-plugin",
+  "keywords": [
+    "board meetings",
+    "board materials",
+    "board packets",
+    "board reporting",
+    "meeting preparation"
+  ]
 }
