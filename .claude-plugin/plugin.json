@@ -1,0 +1,20 @@
+{
+  "name": "zeck",
+  "version": "0.1.0",
+  "description": "Read board materials from Zeck, compare published updates, and work with unpublished sections using your Zeck permissions.",
+  "author": {
+    "name": "Zeck",
+    "url": "https://www.zeck.app"
+  },
+  "homepage": "https://www.zeck.app",
+  "mcpServers": {
+    "zeck": {
+      "type": "http",
+      "url": "https://api.z.zeck.app/ai/streaming/v1/mcp"
+    }
+  },
+  "displayName": "Zeck",
+  "privacyPolicyUrl": "https://help.zeck.app/privacy-policy-1",
+  "license": "MIT",
+  "repository": "https://github.com/Zeck-App/claude-plugin"
+}
